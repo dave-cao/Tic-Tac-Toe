@@ -6,7 +6,7 @@
 
 ![Tic Tac Toe Gif](./assets/ttt.gif)
 
-- [Live](example.com) demonstration video.
+- [Live](https://youtu.be/fyyAbnv8lSY) demonstration video.
 - [Demo](https://replit.com/@KingCao/Tic-Tac-Toe?v=1) the Project.
 
 
@@ -52,7 +52,7 @@ python3 main.py
 ctl + c
 ```
 
-_For a more comprehensive example of using this application, refer to this [video](www.example.com)_
+_For a more comprehensive example of using this application, refer to this [video](https://youtu.be/fyyAbnv8lSY)_
 
 
 
