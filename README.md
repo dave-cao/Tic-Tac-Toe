@@ -35,7 +35,7 @@ The following instructions will help you get set up locally. Don't hesitate to m
 
 1. Clone the repo
 ```sh
-git clone git@github.com:dave-cao/Tic-Tac-Toe.git
+git clone https://github.com/dave-cao/Tic-Tac-Toe.git
 ```
 
 

@@ -116,7 +116,6 @@ class Game:
             Bool: True if all elements are the same, False otherwise.
         """
         first = row[0].content
-        print(first)
         for i in range(1, len(row)):
             if row[i].content == "   " or first != row[i].content:
                 return False
