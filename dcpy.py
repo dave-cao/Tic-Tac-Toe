@@ -3,6 +3,7 @@ Contains the python functions that I use a lot in general
 """
 
 import os
+import sys
 
 
 # MY FUNCTIONS
